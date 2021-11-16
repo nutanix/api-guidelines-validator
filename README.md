@@ -56,3 +56,8 @@ Create `.env` then add below environment variables:
 ## Running the project
 
     $ npm start
+
+
+## References
+
+To understand more information about the project working principles, please refer to https://medium.com/@santanu_kumar/a-way-to-validate-and-enforce-guidelines-for-an-api-design-3517d88b7079
