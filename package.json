@@ -1,0 +1,38 @@
+{
+  "name": "api_interceptor",
+  "version": "1.0.0",
+  "description": "A node based API interceptor that can be used to validate API specification an existing API.",
+  "main": "index.js",
+  "keywords": [
+    "proxy",
+    "api",
+    "interceptor",
+    "validator",
+    "specification"
+  ],
+  "author": "Santanu Sahu <santanu.sahu@nutanix.com>",
+  "contributors": [
+    "Goutham Raj <goutham.raj@nutanix.com>"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "Github",
+    "url": "https://github.com/nutanix-saas-engineering/ntnx-api-validation-tool.git"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "@apidevtools/swagger-parser": "10.0.2",
+    "dotenv": "10.0.0",
+    "http-proxy": "1.18.1",
+    "jsonschema": "1.4.0",
+    "lodash": "4.17.21",
+    "moment": "2.29.1",
+    "node-fetch": "2.6.1",
+    "swagger-parser": "10.0.2"
+  },
+  "engines": {
+    "node": ">=10.15.2"
+  }
+}
