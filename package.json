@@ -28,7 +28,7 @@
     "http-proxy": "1.18.1",
     "jsonschema": "1.4.0",
     "lodash": "4.17.21",
-    "moment": "2.29.1",
+    "moment": "2.29.2",
     "node-fetch": "2.6.1",
     "swagger-parser": "10.0.2"
   },
